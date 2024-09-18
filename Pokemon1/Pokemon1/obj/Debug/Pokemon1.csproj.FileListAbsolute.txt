@@ -1,0 +1,7 @@
+C:\Users\MifiXXX\Desktop\Pokemon1\Pokemon1\bin\Debug\Pokemon1.exe.config
+C:\Users\MifiXXX\Desktop\Pokemon1\Pokemon1\bin\Debug\Pokemon1.exe
+C:\Users\MifiXXX\Desktop\Pokemon1\Pokemon1\bin\Debug\Pokemon1.pdb
+C:\Users\MifiXXX\Desktop\Pokemon1\Pokemon1\obj\Debug\Pokemon1.csproj.AssemblyReference.cache
+C:\Users\MifiXXX\Desktop\Pokemon1\Pokemon1\obj\Debug\Pokemon1.csproj.CoreCompileInputs.cache
+C:\Users\MifiXXX\Desktop\Pokemon1\Pokemon1\obj\Debug\Pokemon1.exe
+C:\Users\MifiXXX\Desktop\Pokemon1\Pokemon1\obj\Debug\Pokemon1.pdb
